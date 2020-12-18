@@ -1,2 +1,0 @@
-Chicago, Springfield, Saint-Louis, Tulsa, Oklahoma City, Amarillo, Santa Fe, Albuquerque, Flagstaff, Los Angeles
-0, 198, 303, 736, 871, 1175, 1475, 1544, 1913, 2448
